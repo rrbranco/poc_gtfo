@@ -23,4 +23,5 @@ International Journal of Proof-of-Concept or Get The Fuck Out (PoC||GTFO or PoC 
 <br><br>
 2016<br>
 •PoC||GTFO 0x10, January 2016, IN THE THEATER OF LITERATE DISASSEMBLY, PASTOR MANUL LAPHROAIG AND HIS MERRY BAND OF REVERSE ENGINEERS LIFT THE WELDED HOOD FROM THE ENGINE THAT RUNS THE WORLD!<br><br>
-An analysis of growth of PoC||GTFO vs. issue number can be found at Solar Designer's mirror - prepare for a 3.5GB to 56TB issue 0x10... 
+An analysis of growth of PoC||GTFO vs. issue number can be found at Solar Designer's mirror - prepare for a 3.5GB to 56TB issue 0x10... <br>
+•PoC||GTFO 0x11, March 2016, IN A FIT OF STUBBORN OPTIMISM, PASTOR MANUL LAPHROAIG AND HIS CLEVER CREW SET SAIL TOWARD WELCOMING SHORES OF THE GREAT UNKNOWN!
