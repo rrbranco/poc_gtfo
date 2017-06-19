@@ -29,5 +29,6 @@ International Journal of Proof-of-Concept or Get The Fuck Out (PoC||GTFO or PoC 
 <br><br>
 2017<br>
 •PoC||GTFO 0x14, March 2017, PASTOR LAPHROAIG SCREAMS HIGH FIVE TO THE HEAVENS AS THE WHOLE WORLD GOES UNDER
+•PoC||GTFO 0x15, June 2017, I SLIPPED A LITTLE BUT LAPHROAIG WAS THERE WITH A HELPING HAND, A NIFTY IDEA AND TWO LITERS OF COFFEE
 <br><br>
 An analysis of growth of PoC||GTFO vs. issue number can be found at Solar Designer's mirror - prepare for a 3.5GB to 56TB issue 0x10... <br>
