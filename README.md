@@ -36,4 +36,7 @@ International Journal of Proof-of-Concept or Get The Fuck Out (PoC||GTFO or PoC 
 2018<br>
 •Poc||GTFO 0x18, June 2018, Pastor Manul Laphroaig's Montessori Soldering School and Stack Smashing Academy for Youngsters Gifted and Not
 <br><br>
+2019<br>
+•PoC||GTFO 0x19, March 2019, This janky old piano has a few more tunes! And so do you! And so do I!
+<br><br>
 An analysis of growth of PoC||GTFO vs. issue number can be found at Solar Designer's mirror - prepare for a 3.5GB to 56TB issue 0x10... <br>
