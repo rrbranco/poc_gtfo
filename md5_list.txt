@@ -18,3 +18,4 @@ MD5 (pocorgtfo16.pdf) = 077321dc32ba752a1b52039649e9bf31
 MD5 (pocorgtfo17.pdf) = 4d5097fb4bab124475cb5c7b0bd04de8
 MD5 (pocorgtfo18.pdf) = 84c49ffee3fffebed5875a162e43bb1d (or f5879ccb9570ec8def41c36854021b4e)
 MD5 (pocorgtfo19.pdf) = ac75bf434f3624612cc3b6ee1aa59218
+MD5 (pocorgtfo20.pdf) = c1624bd2a775a0f179fad0c1b8d5fae9
