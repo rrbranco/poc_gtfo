@@ -39,4 +39,8 @@ International Journal of Proof-of-Concept or Get The Fuck Out (PoC||GTFO or PoC 
 2019<br>
 •PoC||GTFO 0x19, March 2019, This janky old piano has a few more tunes! And so do you! And so do I!
 <br><br>
+2020<br>
+•PoC||GTFO 0x20, January 2020, Grab gifts from the genizah, reading every last page! And write in their margins! And give them all again!
+
+<br><br>
 An analysis of growth of PoC||GTFO vs. issue number can be found at Solar Designer's mirror - prepare for a 3.5GB to 56TB issue 0x10... <br>
